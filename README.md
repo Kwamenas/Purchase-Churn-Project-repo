@@ -23,8 +23,10 @@ We will build a Machine Learning Module for our Customer. This Module is to help
 With this we believe our client can be able to reduce their current churn rate and be proactive.
 
 ## Tech Stack:
-1. SQL
-2. PYTHON
+1. SQL 
+
+2.PYTHON
+
 3. TABLEAU
 
 SQL: We will use SQL Queries to extract data from Customers Data Base.
