@@ -25,7 +25,7 @@ With this we believe our client can be able to reduce their current churn rate a
 ## Tech Stack:
 1. SQL 
 
-2.PYTHON
+2. PYTHON
 
 3. TABLEAU
 
