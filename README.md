@@ -16,6 +16,7 @@ We are going to analyze this data, suggest which data bundles should be advertis
 We will then do what we can **operation save**.With **Operation save**, we will look at customers whose last purchase is between **150 -180days**.
 Due to the purchase behavior of the general historic data, we will recommend the lowest and cheap bundle to be advertised to these clients.
 We will also suggest if clients can have a special offer to win them back.
+This will be done after we have given details of customer purchase behaviour.
 
 2. **ML module**:
 
@@ -34,4 +35,7 @@ SQL: We will use SQL Queries to extract data from Customers Data Base.
 PYTHON: We will use Python for our Data Analysis and Building of ML Modules.
 
 TABLEAU: To create various dash boards to visualize our analysis.
+
+
+Lets get going
 
