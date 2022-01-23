@@ -30,6 +30,8 @@ With this we believe our client can be able to reduce their current churn rate a
 3. TABLEAU
 
 SQL: We will use SQL Queries to extract data from Customers Data Base.
+
 PYTHON: We will use Python for our Data Analysis and Building of ML Modules.
+
 TABLEAU: To create various dash boards to visualize our analysis.
 
